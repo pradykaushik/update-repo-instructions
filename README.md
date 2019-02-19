@@ -36,8 +36,8 @@ To push current code for program1 to the new repository, follow the below steps.
 Let's say that the directory you were earlier working in is called _old-dir_.
 1. Create a separate directory called _program1_.
 2. Change working directory to _program1_ using the command `cd program1`.
-3. Clone the new repository using the available by clicking on the _Clone or download_ button on the GitHub landing page. This would create a directory called _program-1-spr19-<team>_.
-4. Change working directory to _program-1-spr19-<team>_ using the command `cd program-1-spr19`.
+3. Clone the new repository using the available by clicking on the _Clone or download_ button on the GitHub landing page. This would create a directory called _program-1-spr19-\<team\>_.
+4. Change working directory to _program-1-spr19-<team>_ using the command `cd program-1-spr19-<team>`.
 5. Copy over all the files from _old-dir_ (except driver code and README.md) over to current directory.
 6. Use the below commands to add, commit and push code to the new repository for program1.
 	- `git add --all`
