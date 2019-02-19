@@ -22,7 +22,7 @@ If you haven't clicked on it and created a repostory for lab2 and lab3 already, 
 By now you should have successfully updated the remote links. To push the code to the newly repository, follow the below steps.
 * First commit any changes by running the following commands in sequence.
 	- `git add --all`
-	- `git commit -m "adding lab3 code to new repository."`
+	- `git commit -m "adding <lab2 or lab3> code to new repository."`
 	- `git push origin master`
 
 You should be all set now. Navigate to the GitHub page and you should see your code there.
