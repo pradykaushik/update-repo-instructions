@@ -1,6 +1,6 @@
 # update-repo-instructions
 
-## Create a new repository on github using the fork link under piazza#resources tab.
+## Create a new repository on github using the fork link under the [piazza#resources](https://piazza.com/binghamton/spring2019/cs240b1/resources) tab.
 Under the resources tab in piazza, you should be able to find a link to Lab 3.
 If you haven't clicked on it and created a repostory for lab2 and lab3 already, then you can just click one of the following links.
 * [lab3](https://classroom.github.com/a/db52zvT7)
