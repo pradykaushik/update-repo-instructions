@@ -32,6 +32,8 @@ You should be all set now. Navigate to the GitHub page and you should see your c
 Last week each of you individually forked [program1-template](https://github.com/bucs240/program1-template) repository, added your partner as a collaborator started working on program1.
 Once you have created a team GitHub, you should have a repository created for you for program1.
 
+If you haven't created/joined a team for program1, click [here](https://classroom.github.com/g/sTwLZ-l2).
+
 To push current code for program1 to the new repository, follow the below steps.
 Let's say that the directory you were earlier working in is called _old-dir_.
 1. Create a separate directory called _program1_.
